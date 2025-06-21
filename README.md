@@ -2,46 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Hello World – Top 20 Programming Languages with Facts</title>
-  <style>
-    body {
-      background-color: #0d1117;
-      color: #c9d1d9;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-      padding: 40px;
-    }
-    h1, h2, h3 {
-      color: #ffffff;
-      border-bottom: 1px solid #30363d;
-      padding-bottom: 0.3em;
-    }
-    p {
-      line-height: 1.5;
-    }
-    pre {
-      background-color: #161b22;
-      padding: 16px;
-      border-radius: 6px;
-      overflow-x: auto;
-      margin-bottom: 16px;
-    }
-    code {
-      color: #d2a8ff;
-    }
-    .fact {
-      background: #0e4429;
-      padding: 10px;
-      border-left: 4px solid #238636;
-      margin-bottom: 30px;
-      border-radius: 4px;
-    }
-    .donate-box {
-      margin-top: 30px;
-      padding: 16px;
-      background-color: #161b22;
-      border-left: 4px solid #3fb950;
-    }
-  </style>
 </head>
 <body>
 
