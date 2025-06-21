@@ -62,7 +62,7 @@ int main() {
 <p>Want to say "Hello World" in other languages? Check <a href="https://en.wikipedia.org/wiki/%22Hello,_World!%22_program">this wiki page</a>.</p>
 
 <div class="donate-box">
-  <h2>Donate Me</h2>
+  <h2>Donate Me!</h2>
   <p><strong>Bitcoin:</strong> bc1qxzmq4lcqk9vwr4jwv93t63elqd7uqgkpsr4r6p</p>
   <p><strong>Ethereum:</strong> 0x498C93cbffE96aFd5a016C9a52AC8E566b98F695</p>
   <p><strong>Solana:</strong> DVnStxgkgYnzM9CRYLyT9YdYFhs1dqrFNuaNT3bgu6Ny</p>
