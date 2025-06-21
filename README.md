@@ -3,37 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>HelloWorld in HTML, C#, C++</title>
-  <style>
-    body {
-      background-color: #0d1117;
-      color: #c9d1d9;
-      font-family: Arial, sans-serif;
-      margin: 40px;
-    }
-    a {
-      color: #58a6ff;
-      text-decoration: none;
-    }
-    h1, h2 {
-      color: #ffffff;
-    }
-    pre {
-      background-color: #161b22;
-      padding: 10px;
-      border-radius: 6px;
-      overflow-x: auto;
-    }
-    code {
-      color: #d2a8ff;
-    }
-    .donate {
-      margin-top: 30px;
-      background-color: #161b22;
-      padding: 15px;
-      border-left: 4px solid #3fb950;
-    }
-  </style>
+
 </head>
 <body>
 
