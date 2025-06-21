@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Hello World in Top 20 Languages</title>
 
 </head>
 <body>
